@@ -29,5 +29,3 @@ const sideDrawer = (props) => {
 };
 
 export default sideDrawer;
-
-//test
