@@ -4,9 +4,9 @@
     display: flex;
     flex-flow: column;
     align-items: center;
-    box-shadow: 0 2px 1px #ccc;
+    box-shadow: 0 50px 20px #ccc;
     margin: auto;
-    padding: 10px 0;
+    padding: 30px 0;
 }
 
 .OrderButton {
@@ -18,7 +18,7 @@
     font-family: inherit;
     font-size: 1.2em;
     padding: 15px 30px;
-    box-shadow: 2px 2px 2px #966909;
+    box-shadow: 2px 20px 20px #966909;
 }
 
 .OrderButton:hover, .OrderButton:active {
